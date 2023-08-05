@@ -1,17 +1,20 @@
 <div id="header" align="center">
-    <h1>Hi there, I'm Arthur</h1>
-    <h3>Android developer</h3>
-    <div id="badges">
-    <a href="https://www.linkedin.com/in/arthur-nikolsky">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://hh.ru/resume/6ee2ef0cff0ba657c60039ed1f4132316e3550">
-      <img src="https://img.shields.io/badge/HeadHunter-red?label=hh" alt="HeadHunter Badge"/>
-    </a>
-    <a href="https://t.me/nlsks">
-      <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
-    </a>
-  </div>
+	<h1>Hi there, I'm Arthur</h1>
+	<h3>Android developer</h3>
+	<div id="badges">
+		<a href="https://www.linkedin.com/in/arthur-nikolsky">
+			<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+		</a>
+		<a href="https://hh.ru/resume/6ee2ef0cff0ba657c60039ed1f4132316e3550">
+			<img src="https://img.shields.io/badge/HeadHunter-red?label=hh" alt="HeadHunter Badge"/>
+		</a>
+		<a href="https://t.me/nlsks">
+			<img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
+		</a>
+		<a href="https://www.codewars.com/users/anikolsky">
+			<img src="https://www.codewars.com/users/anikolsky/badges/micro" alt="Codewars Badge"/>
+		</a>	
+	</div>
 </div>
 
 ### Languages and Tools :
